@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+# [Project 1: Exploratory analysis of Methane Emission data by World Bank : Project Overview](https://github.com/Nitish950/Methane-Emission-EDA)
 
-You can use the [editor on GitHub](https://github.com/Nitish950/NITISH-SWAMI-PORTFOLIO/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+* Importing the data using Pandas
+* Dataframe characteristics
+* Subsetting the Dataframe
+* Conditional Subsetting
+* Data Cleaning
+* Data Exploration : Exploring data through scatter plots, histograms, bar graphs
+* Creating an interactive searchable widget
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![](images/methane%20emission%20per%20capita%201.png)
 
-### Markdown
+![](images/methane%20emission%20by%20region.png)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# [Project 2: Predictive analysis of historical Netflix Stock Price : Project Overview](https://github.com/Nitish950/Predictive-analysis-of-Netflix-stock-data)
 
-```markdown
-Syntax highlighted code block
+* Understanding the Data via data exploration and visualization
+* Made models using RNN and LSTMs 
+* Creating training and testing dataset
+* Optimized the training data using regressions
 
-# Header 1
-## Header 2
-### Header 3
+![](images/netflix%20real%20vs%20predicted.png)
 
-- Bulleted
-- List
+# [Project 3: EDA and regression analysis of graduate admission data : Project Overview](https://github.com/Nitish950/EDA-and-regression-analysis-of-admission-data)
 
-1. Numbered
-2. List
+* Imported the data of 500 students
+* Used pandas, sklearn, numpy and matplolib libraries
+* Relation between factors such as GRE and TOEFL scores were studied along with university rating
+* Optimized linear and random forest regressors to suit the best model.
+* Most influential parameters were determined using regression analysis
 
-**Bold** and _Italic_ and `Code` text
+![](images/Correlation%20of%20scores.png)
+![](images/outcome%20of%20admission%20data.png)
 
-[Link](url) and ![Image](src)
-```
+# [Project 4: Clustering and EDA of Cardiovascular disease data : Project Overview](https://github.com/Nitish950/Clustering-and-EDA-of-Cardiovascular-Disease-)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* Worked with pandas to carry out initial analysis
+* Carried out data cleaning by removing outliers and incorrect data
+* Used seaborn and matplotlib libraries for visualization
+* Utilized Sklearn and KMeans for clustering of the dataset.
+* Calculated BMI and it's relation with CVD and age
+* Established relation between CVD and alcohol consumption in males and females
 
-### Jekyll Themes
+![](images/bmi.png)
+![](images/Clusters.png)
+![](images/Alcohol%20intake%20and%20cvd.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nitish950/NITISH-SWAMI-PORTFOLIO/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
