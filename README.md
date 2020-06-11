@@ -18,7 +18,7 @@
 * Carried out  data exploration and visualization
 * Made models using RNN and LSTMs 
 * Created training and testing dataset
-* Optimized the training data using Linear and RandomForest regressions
+* Optimized the training data using regression
 
 ![](images/netflix%20real%20vs%20predicted.png)
 
@@ -28,7 +28,7 @@
 * Used pandas, sklearn, numpy and matplolib libraries
 * Explored the relationship between various factors such as GRE and TOEFL scores were studied along with university rating
 * Optimized linear and random forest regressors to suit the best model
-* Most influential parameters were determined using regression analysis
+* Most influential parameters were determined using regression (Linear and RandomForest) analysis
 
 ![](images/Correlation%20of%20scores.png)
 ![](images/outcome%20of%20admission%20data.png)
