@@ -27,7 +27,7 @@
 * Imported the data of 500 students
 * Used pandas, sklearn, numpy and matplolib libraries
 * Relation between factors such as GRE and TOEFL scores were studied along with university rating
-* Optimized linear and random forest regressors to suit the best model.
+* Optimized linear and random forest regressors to suit the best model
 * Most influential parameters were determined using regression analysis
 
 ![](images/Correlation%20of%20scores.png)
@@ -38,7 +38,7 @@
 * Worked with pandas to carry out initial analysis
 * Carried out data cleaning by removing outliers and incorrect data
 * Used seaborn and matplotlib libraries for visualization
-* Utilized Sklearn and KMeans for clustering of the dataset.
+* Utilized Sklearn and KMeans for clustering of the dataset
 * Calculated BMI and it's relation with CVD and age
 * Established relation between CVD and alcohol consumption in males and females
 
