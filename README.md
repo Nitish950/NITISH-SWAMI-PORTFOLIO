@@ -1,13 +1,13 @@
 
 # [Project 1: Exploratory analysis of Methane Emission data by World Bank : Project Overview](https://github.com/Nitish950/Methane-Emission-EDA)
 
-* Importing the data using Pandas
+* Imported the data using Pandas
 * Dataframe characteristics
 * Subsetting the Dataframe
 * Conditional Subsetting
 * Data Cleaning
 * Data Exploration : Exploring data through scatter plots, histograms, bar graphs
-* Creating an interactive searchable widget
+* Created an interactive searchable widget
 
 ![](images/methane%20emission%20per%20capita%201.png)
 
@@ -15,9 +15,9 @@
 
 # [Project 2: Predictive analysis of historical Netflix Stock Price : Project Overview](https://github.com/Nitish950/Predictive-analysis-of-Netflix-stock-data)
 
-* Understanding the Data via data exploration and visualization
+* Carried out  data exploration and visualization
 * Made models using RNN and LSTMs 
-* Creating training and testing dataset
+* Created training and testing dataset
 * Optimized the training data using regressions
 
 ![](images/netflix%20real%20vs%20predicted.png)
