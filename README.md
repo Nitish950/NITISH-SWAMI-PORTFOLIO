@@ -6,8 +6,6 @@
 * Visualization of loss and accuracy
 * Heatmap visualization of the filters and convolutional layers
 
-![](images/training%20set.png)
-
 ![](images/predicted%20labels.png)
 
 # [Project 2: Exploratory analysis of Methane Emission data by World Bank : Project Overview](https://github.com/Nitish950/Methane-Emission-EDA)
